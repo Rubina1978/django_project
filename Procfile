@@ -1,1 +1,1 @@
-web: gunicorn myu_project.wsgi #this it the command heroku use same as python run server
+web: gunicorn my_project.wsgi #this it the command heroku use same as python run server
